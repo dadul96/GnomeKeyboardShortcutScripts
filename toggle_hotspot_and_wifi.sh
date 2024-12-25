@@ -22,6 +22,6 @@ if [ "$wifi_status" = "enabled" ];
 then
 	nmcli radio wifi off
 else
-	nmcli radio wifi on && nmcli connection up "Hotspot"
+	nmcli radio wifi on && sleep 2 && nmcli connection up "Hotspot"
 fi
 
