@@ -4,7 +4,7 @@
 # Script Type: script executed on gnome keyboard shortcut
 # 
 # Gnome keyboard shortcut: Print
-# Gnome keyboard shortcut command: bash ./GnomeKeyboardShortcutScripts/screenshot_fullscreen.sh
+# Gnome keyboard shortcut command: bash ./repos/GnomeKeyboardShortcutScripts/screenshot_fullscreen.sh
 #
 # Description:
 # This script uses the program flameshot to perform a full-screen screenshot.

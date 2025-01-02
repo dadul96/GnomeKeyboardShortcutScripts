@@ -4,7 +4,7 @@
 # Script Type: script executed on gnome keyboard shortcut
 # 
 # Gnome keyboard shortcut: Ctrl + Shift + Escape
-# Gnome keyboard shortcut command: bash ./GnomeKeyboardShortcutScripts/start_system_monitor.sh
+# Gnome keyboard shortcut command: bash ./repos/GnomeKeyboardShortcutScripts/start_system_monitor.sh
 #
 # Description:
 # This script starts the mission center or gnome system monitor.

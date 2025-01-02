@@ -4,7 +4,7 @@
 # Script Type: script executed on gnome keyboard shortcut
 # 
 # Gnome keyboard shortcut: Ctrl + Alt + H
-# Gnome keyboard shortcut command: bash ./GnomeKeyboardShortcutScripts/toggle_hotspot_and_wifi.sh
+# Gnome keyboard shortcut command: bash ./repos/GnomeKeyboardShortcutScripts/toggle_hotspot_and_wifi.sh
 #
 # Description:
 # This script is used to toggle the state of an already configured hotspot.
